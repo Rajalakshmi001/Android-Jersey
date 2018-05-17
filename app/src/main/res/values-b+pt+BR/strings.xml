@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jersey</string>
+    <string name="action_settings">Configuracoes</string>
+    <string name="player_name_hint">Nome do jogador</string>
+    <string name="player_number_hint">Numero do jogador</string>
+    <string name="reset">RESTAURAR</string>
+    <string name="reset_confirmation_Dialog">Restaurar</string>
+    <string name="android">ANDROID</string>
+    <string name="defaultPlayerNumber">17</string>
+    <string name="dialog_label_name_text">Nome</string>
+    <string name="player_number_tex">Numero</string>
+    <string name="red">Vermelho</string>
+    <string name="blue">Azul</string>
+    <string name="edit_jersey_title_text">Atualizar informacoes do Jersey</string>
+    <string name="confirmation_dialog_message">Restaurar informacoes do Jersey?</string>
+</resources>
